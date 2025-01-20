@@ -11,7 +11,7 @@
 ```
 Because a flower to grow takes both sun and rain.
 ```
-## I know:
+## Techies:
 ![Java](images/Java.svg)
 ![C](images/C.svg)
 ![MySQL](images/MySQL.svg)
