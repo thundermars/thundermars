@@ -8,8 +8,9 @@
 
 ### Hi Im thundermars
 > Accept both compliments and criticism.
-
-> Because a flower to grow takes both sun and rain.
+```
+Because a flower to grow takes both sun and rain.
+```
 ## I know:
 ![Java](images/Java.svg)
 ![C](images/C.svg)
