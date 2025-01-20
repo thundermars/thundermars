@@ -16,6 +16,9 @@
 ![C](images/C.svg)
 ![MySQL](images/MySQL.svg)
 
+## Profile views:
+![Profile views](https://komarev.com/ghpvc/?username=thundermars&style=flat-square)
+
 <!---
 thundermars/thundermars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
